@@ -1,0 +1,6 @@
+Manifest-Version: 1.0 
+Created-By: Andre 
+Main-Class: ForcaAlemanha 
+X-COMMENT: Jogo da Forca Alemanha 
+
+ 
